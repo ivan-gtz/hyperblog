@@ -4,4 +4,6 @@ Ivan tiene 23 años nacio en Bolivia,
 
 viviendo en la ciudad de Cochabamba
 
+Iria tiene 22 años se unio al repositori.
+
 Mañana nos enfocaremos en su vida laboral
